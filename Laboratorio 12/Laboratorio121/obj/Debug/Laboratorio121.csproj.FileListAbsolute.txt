@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\ds4\Laboratorio 12\Laboratorio121\obj\Debug\Laboratorio121.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ds4\Laboratorio 12\Laboratorio121\obj\Debug\Laboratorio121.Form1.resources
+C:\Users\DELL\source\repos\ds4\Laboratorio 12\Laboratorio121\obj\Debug\Laboratorio121.Properties.Resources.resources
+C:\Users\DELL\source\repos\ds4\Laboratorio 12\Laboratorio121\obj\Debug\Laboratorio121.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ds4\Laboratorio 12\Laboratorio121\obj\Debug\Laboratorio121.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ds4\Laboratorio 12\Laboratorio121\bin\Debug\Laboratorio121.exe.config
+C:\Users\DELL\source\repos\ds4\Laboratorio 12\Laboratorio121\bin\Debug\Laboratorio121.exe
+C:\Users\DELL\source\repos\ds4\Laboratorio 12\Laboratorio121\bin\Debug\Laboratorio121.pdb
+C:\Users\DELL\source\repos\ds4\Laboratorio 12\Laboratorio121\obj\Debug\Laboratorio121.exe
+C:\Users\DELL\source\repos\ds4\Laboratorio 12\Laboratorio121\obj\Debug\Laboratorio121.pdb
+C:\Users\DELL\source\repos\ds4\Laboratorio 12\Laboratorio121\obj\Debug\Laboratorio121.exe.config
