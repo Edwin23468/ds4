@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\ds4\Laboratorio 11\Laboratorio 11\bin\Debug\Laboratorio 11.exe.config
+C:\Users\DELL\source\repos\ds4\Laboratorio 11\Laboratorio 11\bin\Debug\Laboratorio 11.exe
+C:\Users\DELL\source\repos\ds4\Laboratorio 11\Laboratorio 11\bin\Debug\Laboratorio 11.pdb
+C:\Users\DELL\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\Laboratorio 11.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\Laboratorio_11.Form1.resources
+C:\Users\DELL\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\Laboratorio_11.Properties.Resources.resources
+C:\Users\DELL\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\Laboratorio 11.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\Laboratorio 11.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\Laboratorio 11.exe
+C:\Users\DELL\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\Laboratorio 11.pdb
